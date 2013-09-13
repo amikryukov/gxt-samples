@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gxt-2.3.0-gwt22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gxt-2.3.0-gwt22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gxt-2.3.0-gwt22.jar!/" />
+    </SOURCES>
+  </library>
+</component>
